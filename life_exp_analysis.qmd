@@ -1,0 +1,14 @@
+---
+title: "Examine Life Expectancy"
+format: html
+editor: visual
+---
+
+```{r}
+#| 
+library(tidyverse)
+```
+
+# Abstract
+
+# Analysis
