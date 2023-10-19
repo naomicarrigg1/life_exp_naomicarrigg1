@@ -26,6 +26,12 @@ gapminder::gapminder_unfiltered  |>
   sumdat
 ```
 
+<<<<<<< HEAD
 changing something to main, this has been committed.
 
 what next
+=======
+changing something to main. this has now been merged
+
+what is next?
+>>>>>>> testname
